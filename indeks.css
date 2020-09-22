@@ -1,0 +1,29 @@
+#wraper{
+    width: 100%;
+    height: 1000px;
+}
+#header{
+    width: 100%;
+    height:300px;
+    background: rgb(255, 220, 0);
+}
+#importir{
+    height: 40px;
+    width: 150px;
+    margin-left:575px ;
+    margin-bottom: 20px;
+}
+#baris1{
+    font-size: xx-large;
+    font-family: fantasy;
+    margin-left: 400px;
+}
+#baris2{
+    font-size: xx-large;
+    font-family: fantasy;
+    margin-left: 330px;
+}
+hr{
+    height: 2px;
+    width: 150px;
+}
